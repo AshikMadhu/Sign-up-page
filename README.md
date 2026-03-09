@@ -20,7 +20,7 @@ The design focuses on:
 - User-friendly input fields
 - Responsive styling
 
-Sign-up and login pages are essential components of modern web applications because they allow users to securely access systems using credentials such as username, email, and password. :contentReference[oaicite:0]{index=0}
+Sign-up and login pages are essential components of modern web applications because they allow users to securely access systems using credentials such as username, email, and password.
 
 ---
 
@@ -52,8 +52,6 @@ Sign-up-page/
 ├── signup.htm
 ├── style.css
 ```
-
-*(File names may vary depending on your repository structure.)*
 
 ---
 
@@ -98,13 +96,5 @@ Future enhancements could include:
 
 ---
 
-## 👨‍💻 Author
-
-**Ashik Madhu**
-
-GitHub:  
-https://github.com/ashikmadhu
-
----
 
 ⭐ If you like this project, consider giving it a **star** on GitHub!
